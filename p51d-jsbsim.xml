@@ -1104,24 +1104,24 @@ Hal V. Engel hvengel@astound.net
 						<independentVar lookup="table">propulsion/engine/map-inhg</independentVar>
                         <tableData breakPoint="11.0">
 						        0.05   0.25    
-                            0   0.15    1.2    
+                            0   0.65    1.2    
 							15  0.075   1.0    
-                            24  0.3     1.0   
-							50  0.6     1.0
+                            24  0.8     1.0   
+							50  1.1     1.0
                         </tableData>
 						<tableData breakPoint="20.0">
 						        0.05    0.25    
-                            0   0.4     1.8    
-							15  0.3     1.5    
-                            24  0.3     1.0   
-							50  0.6     1.0
+                            0   0.9     1.8    
+							15  0.8     1.5    
+                            24  0.8     1.0   
+							50  1.1     1.0
                         </tableData>
 						<tableData breakPoint="30.0">
 						        0.05    0.25    
-                            0   0.5     2.5    
-							15  0.4     2.0    
-                            24  0.3     1.0   
-							50  0.6     1.0
+                            0   1.0     2.5    
+							15  0.9     2.0    
+                            24  0.8     1.0   
+							50  1.1     1.0
                         </tableData>
                     </table>
                 </function>
